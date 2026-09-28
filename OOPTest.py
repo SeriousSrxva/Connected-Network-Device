@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env
 #I recently found out you can add the little directory at the top to make a script executable via CLI. Pretty cool!
 #Hello, this is a basic script I developed to help me manage my home network, I will be updating this script to provide it with more functionality once I get better at python.
 #If I find a way to make this automatically add devices found on my network when ran, I will be adding that function in this tool.
